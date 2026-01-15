@@ -13,7 +13,7 @@ Instead of using nested loops to iterate through data, we use **two pointers** (
 
 ---
 
-![Two Pointers Visualization](../images/2-pointer.jpeg)
+![Two Pointers Visualization](../images/2pointer.jpeg)
 
 ---
 
