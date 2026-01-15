@@ -1,0 +1,9 @@
+{
+  "id": "two-pointers",
+  "title": "Pattern 1: Two Pointers",
+  "topic": "Arrays",
+  "difficulty": "Easy",
+  "excerpt": "Stop solving random problems. Learn how to use two pointers to reduce time complexity from O(n²) to O(n).",
+  "date": "2026-01-15",
+  "color": "#3B82F6"
+}
