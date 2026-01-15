@@ -45,21 +45,35 @@ Used for Linked Lists (e.g., Detecting a cycle or finding the middle).
 
 Here is a classic example using the **Left & Right** approach.
 
-```javascript
-function twoSumSorted(arr, target) {
-    let left = 0;
-    let right = arr.length - 1;
+```java
+public class TwoSumSorted {
 
-    while (left < right) {
-        let currentSum = arr[left] + arr[right];
+    public static int[] twoSumSorted(int[] arr, int target) {
+        int left = 0;
+        int right = arr.length - 1;
 
-        if (currentSum === target) {
-            return [left + 1, right + 1]; // Found the pair
-        } else if (currentSum > target) {
-            right--; // Sum is too large, decrease right
-        } else {
-            left++;  // Sum is too small, increase left
+        while (left < right) {
+            int currentSum = arr[left] + arr[right];
+
+            if (currentSum == target) {
+                // Return 1-based indices
+                return new int[]{left + 1, right + 1};
+            } else if (currentSum > target) {
+                right--; // Sum is too large, decrease right
+            } else {
+                left++;  // Sum is too small, increase left
+            }
         }
+
+        // No pair found
+        return new int[]{};
     }
-    return []; // No pair found
-}
+
+    
+    public static void main(String[] args) {
+        int[] arr = {2, 7, 11, 15};
+        int target = 9;
+
+        int[] result = twoSumSorted(arr, target);
+        if (result.length == 2) {
+            System.out.println(res
