@@ -7,5 +7,15 @@
     "excerpt": "Stop solving random problems. Learn how to use two pointers to reduce time complexity from O(n²) to O(n).",
     "date": "2024-03-20",
     "color": "#3B82F6"
+  },
+  {
+    "id": "twosum",
+    "title": "Two Sum II (Sorted)",
+    "topic": "Two Pointers",
+    "difficulty": "Medium",
+    "excerpt": "Given a sorted array, find two numbers that add up to a target using O(1) space.",
+    "date": "2024-03-21",
+    "color": "#10B981"
   }
 ]
+ 
