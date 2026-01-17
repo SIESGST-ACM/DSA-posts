@@ -5,7 +5,7 @@
     "topic": "Two Pointers",
     "difficulty": "Easy",
     "excerpt": "Stop solving random problems. Learn how to use two pointers to reduce time complexity from O(n²) to O(n).",
-    "date": "2024-03-20",
+    "date": "2026-01-16",
     "color": "#3B82F6"
   },
   {
@@ -14,8 +14,28 @@
     "topic": "Two Pointers",
     "difficulty": "Medium",
     "excerpt": "Given a sorted array, find two numbers that add up to a target using O(1) space.",
-    "date": "2024-03-21",
+    "date": "2026-01-16",
     "color": "#10B981"
-  }
+  },
+  {
+  "id": "removeduplicates",
+  "title": "Remove Duplicates from Sorted Array",
+  "topic": "Two Pointers",
+  "difficulty": "Easy",
+  "excerpt": "Given a sorted array, remove duplicates in-place and return the count of unique elements using O(1) space.",
+  "date": "2026-01-17",
+  "color": "#3B82F6"
+  },
+{
+  "id": "sqsorted",
+  "title": "Squares of a Sorted Array",
+  "topic": "Two Pointers",
+  "difficulty": "Easy",
+  "excerpt": "Given a sorted array, return a new array of squares in sorted order using the Two Pointers technique.",
+  "date": "2026-01-17",
+  "color": "#F59E0B"
+}
+
+
 ]
  
