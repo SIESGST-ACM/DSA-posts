@@ -22,7 +22,7 @@ Because the array is sorted, the "Brute Force" approach (checking every pair) is
 At each step, we calculate the `sum` of the numbers at the `left` and `right` pointers:
 
 * **Case 1: `sum == target`**
-    * ✅ We found the answer! Return the indices.
+    * We found the answer! Return the indices.
 * **Case 2: `sum < target`**
     * The sum is too small. We need a larger value.
     * Move the **left** pointer forward (`left++`).
