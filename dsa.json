@@ -52,7 +52,7 @@
   "excerpt": "Given an array of integers, find all unique triplets that sum to zero using sorting and the Two Pointers technique to achieve O(n²) time complexity.",
   "date": "2026-01-18",
   "color": "#8B5CF6"
-},
+}
 
 
 
