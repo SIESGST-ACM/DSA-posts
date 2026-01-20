@@ -61,6 +61,26 @@
   "excerpt": "Given an array of integers and a target, find all unique quadruplets that sum to the target using sorting and the Two Pointers based K-Sum approach with O(n³) time complexity.",
   "date": "2026-01-19",
   "color": "#EC4899"
-}
+  },
+  {
+  "id": "sw",
+  "title": "Sliding Window Pattern",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "excerpt": "Sliding Window is a technique used to efficiently process subarrays or substrings by maintaining a moving window over contiguous elements, reducing time complexity from O(n²) to O(n).",
+  "date": "2026-01-19",
+  "color": "#3B82F6"
+  },
+  {
+  "id": "maxsumk",
+  "title": "Max Sum Subarray of Size K",
+  "topic": "Sliding Window",
+  "difficulty": "Easy",
+  "excerpt": "Given an array and an integer k, find the maximum sum of any contiguous subarray of size k using the Sliding Window technique with O(n) time complexity.",
+  "date": "2026-01-19",
+  "color": "#22C55E"
+  }
+
+
 
 ]
