@@ -88,8 +88,8 @@
   "excerpt": "Given a target and an array of positive integers, find the smallest contiguous subarray whose sum is at least the target using a dynamic Sliding Window approach in O(n) time.",
   "date": "2026-01-21",
   "color": "#3B82F6"
-},
-{
+  },
+  {
   "id": "longsubstring",
   "title": "Longest Substring Without Repeating Characters",
   "topic": "Sliding Window",
@@ -97,7 +97,7 @@
   "excerpt": "Given a string, find the length of the longest contiguous substring without repeating characters using a dynamic Sliding Window technique in O(n) time.",
   "date": "2026-01-21",
   "color": "#F59E0B"
-}
+  }
 
 
 
