@@ -81,7 +81,7 @@
   "color": "#22C55E"
   },
   {
-  "id": "minsizesubarraysum",
+  "id": "minsizesub",
   "title": "Minimum Size Subarray Sum",
   "topic": "Sliding Window",
   "difficulty": "Medium",
@@ -90,7 +90,7 @@
   "color": "#3B82F6"
 },
 {
-  "id": "longestuniquesubstring",
+  "id": "longsubstring",
   "title": "Longest Substring Without Repeating Characters",
   "topic": "Sliding Window",
   "difficulty": "Medium",
