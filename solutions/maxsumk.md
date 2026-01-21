@@ -54,3 +54,27 @@ So:
 This makes Sliding Window the optimal solution here.
 
 ![Max Sum of Size K](../images/maxsumk.png)
+
+```java
+class Solution {
+    public int maxSubarraySum(int[] arr, int k) {
+        int result = 0;
+        int h = k - 1;
+        int l = 0;
+
+        for (int i = 0; i <= h; i++) {
+            result = result + arr[i];
+        }
+
+        int Sum = result;
+
+        while (h < arr.length - 1) {
+            Sum = Sum + arr[h + 1] - arr[l];
+            result = Math.max(result, Sum);
+            l++;
+            h++;
+        }
+
+        return result;
+    }
+}

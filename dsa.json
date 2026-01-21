@@ -68,7 +68,7 @@
   "topic": "Sliding Window",
   "difficulty": "Easy",
   "excerpt": "Sliding Window is a technique used to efficiently process subarrays or substrings by maintaining a moving window over contiguous elements, reducing time complexity from O(n²) to O(n).",
-  "date": "2026-01-19",
+  "date": "2026-01-20",
   "color": "#3B82F6"
   },
   {
@@ -77,9 +77,29 @@
   "topic": "Sliding Window",
   "difficulty": "Easy",
   "excerpt": "Given an array and an integer k, find the maximum sum of any contiguous subarray of size k using the Sliding Window technique with O(n) time complexity.",
-  "date": "2026-01-19",
+  "date": "2026-01-20",
   "color": "#22C55E"
-  }
+  },
+  {
+  "id": "minsizesubarraysum",
+  "title": "Minimum Size Subarray Sum",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "excerpt": "Given a target and an array of positive integers, find the smallest contiguous subarray whose sum is at least the target using a dynamic Sliding Window approach in O(n) time.",
+  "date": "2026-01-21",
+  "color": "#3B82F6"
+},
+{
+  "id": "longestuniquesubstring",
+  "title": "Longest Substring Without Repeating Characters",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "excerpt": "Given a string, find the length of the longest contiguous substring without repeating characters using a dynamic Sliding Window technique in O(n) time.",
+  "date": "2026-01-21",
+  "color": "#F59E0B"
+}
+
+
 
 
 

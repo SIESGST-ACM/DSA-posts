@@ -12,8 +12,8 @@ Instead of using nested loops to iterate through data, we use **two pointers** (
 > **Note:** Two pointers do not always mean "no sorting." Sometimes, you must sort the array first to make this pattern work.
 
 ---
-
 ![Two Pointers Visualization](../images/2pointer.jpeg)
+
 
 ---
 
