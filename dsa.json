@@ -115,6 +115,24 @@
   "excerpt": "Given a string and an integer k, find the length of the longest substring that can be obtained by replacing at most k characters using the Sliding Window technique in O(n) time.",
   "date": "2026-01-22", 
   "color": "#8B5CF6"
+  },
+  {
+  "id": "permutationinstr",
+  "title": "Permutation in String", 
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "excerpt": "Given two strings, s1 and s2, determine if s2 contains a permutation of s1 using the Sliding Window technique in O(n) time.",
+  "date": "2026-01-23",
+  "color": "#EC4899"
+  },
+  {
+  "id": "anagramstr",
+  "title": "Find All Anagrams in a String",
+  "topic": "Sliding Window",
+  "difficulty": "Medium",
+  "excerpt": "Given a string s and a pattern p, find all start indices of p's anagrams in s using the Sliding Window technique in O(n) time.",
+  "date": "2026-01-23",
+  "color": "#3B82F6"
   }
 
 
