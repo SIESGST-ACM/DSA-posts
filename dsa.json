@@ -133,6 +133,15 @@
   "excerpt": "Given a string s and a pattern p, find all start indices of p's anagrams in s using the Sliding Window technique in O(n) time.",
   "date": "2026-01-23",
   "color": "#3B82F6"
+  },
+  {
+  "id": "minimumwindowsubstr",
+  "title": "Minimum Window Substring",
+  "topic": "Sliding Window",
+  "difficulty": "Hard",
+  "excerpt": "Given two strings s and t, find the minimum window in s which contains all the characters of t using the Sliding Window technique in O(n) time.",
+  "date": "2026-01-24",
+  "color": "#EF4444"
   }
 
 
