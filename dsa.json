@@ -142,6 +142,24 @@
   "excerpt": "Given two strings s and t, find the minimum window in s which contains all the characters of t using the Sliding Window technique in O(n) time.",
   "date": "2026-01-24",
   "color": "#EF4444"
+  },
+  {
+  "id": "slowfastptr",
+  "title": "Slow and Fast Pointer Pattern",
+  "topic": "Slow and Fast Pointer",
+  "difficulty": "Easy",
+  "excerpt": "The Slow and Fast Pointer technique involves using two pointers that move at different speeds to solve problems related to linked lists and arrays, often reducing time complexity to O(n) with O(1) space.",
+  "date": "2026-01-25",
+  "color": "#3B82F6"
+  },
+  {
+  "id": "linklistcycle",
+  "title": "Linked List Cycle Detection",
+  "topic": "Slow and Fast Pointer",
+  "difficulty": "Easy",
+  "excerpt": "Given a linked list, determine if it has a cycle using the Slow and Fast Pointer technique in O(n) time and O(1) space.",
+  "date": "2026-01-25",
+  "color": "#22C55E"
   }
 
 
