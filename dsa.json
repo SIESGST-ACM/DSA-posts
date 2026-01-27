@@ -178,6 +178,25 @@
   "excerpt": "Determine if a number is a happy number using the Slow and Fast Pointer technique to detect cycles in O(n) time and O(1) space.",
   "date": "2026-01-26",
   "color": "#F59E0B"
+},
+{
+  "id": "findduplicate",
+  "title": "Find the Duplicate Number",
+  "topic": "Slow and Fast Pointer", 
+  "difficulty": "Medium",
+  "excerpt": "Given an array containing n + 1 integers where each integer is between 1 and n, find the duplicate number using the Slow and Fast Pointer technique in O(n) time and O(1) space.",
+  "date": "2026-01-27",
+  "color": "#10B981"
+
+},
+{
+  "id": "palindromeLL",
+  "title": "Palindrome Linked List",
+  "topic": "Slow and Fast Pointer",
+  "difficulty": "Medium",
+  "excerpt": "Given a singly linked list, determine if it is a palindrome using the Slow and Fast Pointer technique in O(n) time and O(1) space.",
+  "date": "2026-01-27",
+  "color": "#8B5CF6"
 }
 
 
