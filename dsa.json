@@ -197,6 +197,14 @@
   "excerpt": "Given a singly linked list, determine if it is a palindrome using the Slow and Fast Pointer technique in O(n) time and O(1) space.",
   "date": "2026-01-27",
   "color": "#8B5CF6"
+},{
+  "id": "circulararrloop",
+  "title" : "Circlular Array Loop",
+  "topic": "Slow and Fast Pointer",
+  "difficulty":"Medium",
+  "excerpt" : "We are given a **circular array** where each value tells us how far to jump forward or backward. We must check if there exists a **valid cycle**.",
+  "date":"2026-01-28",
+  "color":"#10B981"
 }
 
 
