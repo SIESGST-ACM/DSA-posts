@@ -205,8 +205,24 @@
   "excerpt" : "We are given a **circular array** where each value tells us how far to jump forward or backward. We must check if there exists a **valid cycle**.",
   "date":"2026-01-28",
   "color":"#10B981"
-}
+},{
+  "id": "prefixsum",
+  "title": "Prefix Sum Pattern",
+  "topic": "Prefix Sum",
+  "difficulty": "Easy",
+  "excerpt": "The Prefix Sum technique involves creating an auxiliary array where each element at index i represents the sum of elements from the start of the original array up to index i, enabling efficient range sum queries in O(1) time after O(n) preprocessing.",
+  "date": "2026-01-29",
+  "color": "#3B82F6"
 
+},{
+  "id":"findpivot",
+  "title":"Find Pivot Index",
+  "topic":"Prefix Sum",
+  "difficulty":"Easy",
+  "excerpt":"Given an array of integers, find the pivot index where the sum of the elements to the left is equal to the sum of the elements to the right using the Prefix Sum technique in O(n) time and O(1) space.",
+  "date":"2026-01-29",
+  "color":"#22C55E"
+}
 
 
 
