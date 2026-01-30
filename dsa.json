@@ -222,8 +222,24 @@
   "excerpt":"Given an array of integers, find the pivot index where the sum of the elements to the left is equal to the sum of the elements to the right using the Prefix Sum technique in O(n) time and O(1) space.",
   "date":"2026-01-29",
   "color":"#22C55E"
+},
+{
+  "id":"rangesum",
+  "title":"Range Sum Query - Immutable",
+  "topic":"Prefix Sum",
+  "difficulty":"Easy",
+  "excerpt":"Given an array of integers, implement a class that can efficiently calculate the sum of elements between two given indices using the Prefix Sum technique in O(1) time after O(n) preprocessing.",
+  "date":"2026-01-30",
+  "color":"#3B82F6"
+},{
+  "id":"subaarrayk",
+  "title":"Subarray Sum Equals K",
+  "topic":"Prefix Sum",
+  "difficulty":"Medium",
+  "excerpt":"Given an array of integers and a target sum k, count the number of subarrays that sum to k using the Prefix Sum technique in O(n) time and O(n) space.",
+  "date":"2026-01-30",
+  "color":"#F59E0B"
 }
-
 
 
 ]
