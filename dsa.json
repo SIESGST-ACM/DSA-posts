@@ -239,6 +239,14 @@
   "excerpt":"Given an array of integers and a target sum k, count the number of subarrays that sum to k using the Prefix Sum technique in O(n) time and O(n) space.",
   "date":"2026-01-30",
   "color":"#F59E0B"
+},{
+  "id":"divbyk",
+  "title":"Subarrays Divisible by K",
+  "topic":"Prefix Sum",
+  "difficulty":"Medium",
+  "excerpt":"Given an array of integers and an integer k, find the number of contiguous subarrays whose sum is divisible by k using the Prefix Sum technique in O(n) time and O(n) space.",
+  "date":"2026-01-31",
+  "color":"#10B981"
 }
 
 
